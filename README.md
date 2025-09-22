@@ -22,14 +22,15 @@ I enjoy building scalable solutions, exploring new languages, and contributing t
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" alt="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java/java.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/kotlin/kotlin.svg" width="50" height="50" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/go/go.svg" width="50" height="50" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/javascript/javascript.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/html/html.svg" width="50" height="50" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="50" height="50" alt="YAML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="50" height="50" alt="JSON"/>
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/cpp/cpp.svg" width="50" height="50" alt="C++"/>
   
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="50" height="50" alt="Cloudflare"/>
