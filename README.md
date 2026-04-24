@@ -1,6 +1,8 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                       HEADER                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=E6F000&center=true&vCenter=true&width=600&lines=Building+robust+%26+scalable+backend+systems;Minecraft+plugin+%26+server+infrastructure+dev;Discord+bot+%26+API+architect;Always+shipping+something+new+%E2%9C%A6)](https://git.io/typing-svg)
 
 <br/>
