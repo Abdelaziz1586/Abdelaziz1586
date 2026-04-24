@@ -119,7 +119,7 @@
 <h2 align="center">🏆 Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdelaziz1586&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdelaziz1586&theme=radical&no-frame=false&no-bg=false&column=-1&margin-w=8" alt="GitHub Trophies"/>
 </div>
 
 <br/>
