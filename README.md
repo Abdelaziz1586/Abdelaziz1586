@@ -113,20 +113,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                    TROPHIES                              -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdelaziz1586&theme=radical&no-frame=false&no-bg=false&column=-1&margin-w=8" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
 <!--                  ACTIVITY GRAPH                          -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
