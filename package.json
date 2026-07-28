@@ -1,0 +1,19 @@
+{
+  "name": "profile-readme-stats",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-hosted GitHub stats generator for a profile README — no third-party rendering services.",
+  "type": "commonjs",
+  "scripts": {
+    "stats": "node scripts/generate-stats.js",
+    "views": "node scripts/generate-views.js",
+    "build": "npm run stats && npm run views"
+  },
+  "dependencies": {
+    "@octokit/graphql": "^8.1.1",
+    "@octokit/rest": "^21.0.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
