@@ -119,7 +119,6 @@
 <br/>
 
 <h2 align="center">📈 Contribution Snake</h2>
-<p align="center"><sub>Rendered once a day by <a href="https://github.com/Platane/snk">Platane/snk</a> running in this repo's own CI — the output is a static file, not a live embed.</sub></p>
 
 <div align="center">
   <picture>
