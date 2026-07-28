@@ -19,6 +19,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           outputs: |
             assets/snake.svg
             assets/snake-dark.svg?palette=github-dark
