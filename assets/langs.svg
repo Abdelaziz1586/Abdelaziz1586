@@ -1,0 +1,16 @@
+<svg width="480" height="110" viewBox="0 0 480 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="$ top-languages -- awaiting first run">
+  <style>
+    .title { font: 600 15px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #e6f000; }
+    .label { font: 400 12.5px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #9c9890; }
+    .value { font: 600 13px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #f0ebe1; }
+    .mono  { font: 400 11.5px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #9c9890; }
+  </style>
+  <rect x="0.5" y="0.5" width="479" height="109" rx="10"
+        fill="#0b0b0a" stroke="#1f1f18" />
+  <line x1="20" y1="42" x2="460" y2="42" stroke="#1f1f18" stroke-width="1"/>
+  <text x="20" y="28" class="title">$ top-languages -- awaiting first run</text>
+  <circle cx="450" cy="22" r="4" fill="#6b7000"/>
+  <circle cx="438" cy="22" r="4" fill="#6b7000" opacity="0.6"/>
+  <circle cx="426" cy="22" r="4" fill="#6b7000" opacity="0.3"/>
+  <text x="20" y="70" class="label">Run the update-stats workflow to populate this card.</text>
+</svg>

@@ -1,0 +1,21 @@
+"use strict";
+
+// Small, static fallback palette so the languages card doesn't depend on
+// fetching linguist's colors.yml from the network at render time.
+// GraphQL already returns each language's official color, so this is only
+// used if that field is ever missing.
+module.exports = {
+  Java: "#b07219",
+  Kotlin: "#A97BFF",
+  Rust: "#dea584",
+  Go: "#00ADD8",
+  TypeScript: "#3178c6",
+  JavaScript: "#f1e05a",
+  "C++": "#f34b7d",
+  HTML: "#e34c26",
+  CSS: "#563d7c",
+  Shell: "#89e051",
+  Dockerfile: "#384d54",
+  Python: "#3572A5",
+  default: "#e6f000",
+};
