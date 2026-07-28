@@ -1,4 +1,4 @@
-<svg width="480" height="220" viewBox="0 0 480 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="$ github-stats -- awaiting first run">
+<svg width="480" height="220" viewBox="0 0 480 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="$ github-stats --user Abdelaziz1586">
   <style>
     .title { font: 600 15px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #e6f000; }
     .label { font: 400 12.5px 'JetBrains Mono','Consolas','SFMono-Regular',Menlo,monospace; fill: #9c9890; }
@@ -8,21 +8,21 @@
   <rect x="0.5" y="0.5" width="479" height="219" rx="10"
         fill="#0b0b0a" stroke="#1f1f18" />
   <line x1="20" y1="42" x2="460" y2="42" stroke="#1f1f18" stroke-width="1"/>
-  <text x="20" y="28" class="title">$ github-stats -- awaiting first run</text>
+  <text x="20" y="28" class="title">$ github-stats --user Abdelaziz1586</text>
   <circle cx="450" cy="22" r="4" fill="#6b7000"/>
   <circle cx="438" cy="22" r="4" fill="#6b7000" opacity="0.6"/>
   <circle cx="426" cy="22" r="4" fill="#6b7000" opacity="0.3"/>
   
   <text x="20" y="68" class="label">Total Stars</text>
-  <text x="460" y="68" text-anchor="end" class="value">--</text>
+  <text x="460" y="68" text-anchor="end" class="value">25</text>
   <text x="20" y="92" class="label">Total Commits</text>
-  <text x="460" y="92" text-anchor="end" class="value">--</text>
+  <text x="460" y="92" text-anchor="end" class="value">1,183</text>
   <text x="20" y="116" class="label">Public Repositories</text>
-  <text x="460" y="116" text-anchor="end" class="value">--</text>
+  <text x="460" y="116" text-anchor="end" class="value">29</text>
   <text x="20" y="140" class="label">Pull Requests</text>
-  <text x="460" y="140" text-anchor="end" class="value">--</text>
+  <text x="460" y="140" text-anchor="end" class="value">35</text>
   <text x="20" y="164" class="label">Issues Opened</text>
-  <text x="460" y="164" text-anchor="end" class="value">--</text>
+  <text x="460" y="164" text-anchor="end" class="value">2</text>
   <text x="20" y="188" class="label">Code Reviews</text>
-  <text x="460" y="188" text-anchor="end" class="value">--</text>
+  <text x="460" y="188" text-anchor="end" class="value">1</text>
 </svg>
