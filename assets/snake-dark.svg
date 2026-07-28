@@ -1,0 +1,5 @@
+<svg width="880" height="200" viewBox="0 0 880 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Contribution snake -- awaiting first run">
+  <rect x="0.5" y="0.5" width="879" height="199" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="440" y="94" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="14" fill="#9c9890">Snake animation not generated yet</text>
+  <text x="440" y="116" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" fill="#6b7000">Run the "Generate contribution snake" workflow in Actions</text>
+</svg>
