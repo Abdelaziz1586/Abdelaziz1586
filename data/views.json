@@ -1,6 +1,6 @@
 {
-  "total": 0,
-  "uniques": 0,
+  "total": 1,
+  "uniques": 1,
   "lastSeenDate": "2026-09-01",
   "byDate": {
     "2026-07-14": {
@@ -194,6 +194,10 @@
     "2026-08-30": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-31": {
+      "count": 1,
+      "uniques": 1
     }
   }
 }
