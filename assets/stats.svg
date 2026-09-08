@@ -20,7 +20,7 @@
   <text x="20" y="116" class="label">Public Repositories</text>
   <text x="460" y="116" text-anchor="end" class="value">29</text>
   <text x="20" y="140" class="label">Pull Requests</text>
-  <text x="460" y="140" text-anchor="end" class="value">37</text>
+  <text x="460" y="140" text-anchor="end" class="value">38</text>
   <text x="20" y="164" class="label">Issues Opened</text>
   <text x="460" y="164" text-anchor="end" class="value">2</text>
   <text x="20" y="188" class="label">Code Reviews</text>
