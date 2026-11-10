@@ -14,7 +14,7 @@
   <circle cx="426" cy="22" r="4" fill="#6b7000" opacity="0.3"/>
   
   <text x="20" y="68" class="label">Total Stars</text>
-  <text x="460" y="68" text-anchor="end" class="value">25</text>
+  <text x="460" y="68" text-anchor="end" class="value">26</text>
   <text x="20" y="92" class="label">Total Commits</text>
   <text x="460" y="92" text-anchor="end" class="value">1,290</text>
   <text x="20" y="116" class="label">Public Repositories</text>
